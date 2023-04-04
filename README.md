@@ -10,6 +10,11 @@ Cryptocurrency used in this platform:
 
 ---
 
+Deployable Dashboard:
+https://richiegarafola-basiccrypto.streamlit.app/
+
+---
+
 # Libraries Used:
 **Streamlit -**
 Streamlit lets you turn data scripts into shareable web apps in minutes. It’s all Python, open-source
